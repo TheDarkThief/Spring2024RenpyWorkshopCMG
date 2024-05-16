@@ -1,0 +1,10 @@
+game/cache
+game/saves
+log.txt
+errors.txt
+traceback.txt
+.idea/
+*.iml
+*.rpyc
+.history/
+.vscode/
